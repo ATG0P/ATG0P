@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning python,web development
 - 💞️ I’m looking to collaborate on open source development
 - 📫 How to reach me email: dahiyaarya70@gmail.com
-- 😄 Pronouns: He/Him/Genius
-- ⚡ Fun fact: Can crack my toe nail infinite times (idk why I am sharing this)
+- 😄 Pronouns: He/Him
 
 <!---
 ATG0P/ATG0P is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
