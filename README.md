@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ATG0P
+- 👋 Hi, I’m Aryan Dahiya
 - 👀 I’m interested in solving logical problems
 - 🌱 I’m currently learning python,web development
 - 💞️ I’m looking to collaborate on open source development
